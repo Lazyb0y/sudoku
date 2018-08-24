@@ -1,2 +1,2 @@
 # sudoku
-Sudoku game using Phaser
+Yet Another Sudoku made on Phaser 3 game engine.
